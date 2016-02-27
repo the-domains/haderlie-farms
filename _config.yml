@@ -1,0 +1,28 @@
+name: Haderlie Farms
+favicon: null
+layout_spectrum: 0.3418712785933167
+typography_spectrum: 0.79145945655182
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4097251647617668
+  lightness: 0.9199458055663854
+  saturation: 0.12547924183309078
+  rhythmicContrast: 0.025049100164324045
+purpose: []
